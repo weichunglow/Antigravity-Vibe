@@ -1,0 +1,17 @@
+# 🛠️ Development & Metadata Ignore
+IMPLEMENTATION_GUIDE.md
+task.md
+walkthrough.md
+implementation_plan.md
+analysis_results.md
+*.log
+.DS_Store
+
+# 🤫 Secrets & User Specific
+.env
+.env.local
+.agents/scratch/
+
+# 📦 Dependencies (If using node/python later)
+node_modules/
+__pycache__/
