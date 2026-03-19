@@ -1,6 +1,6 @@
 ---
-name: Multi-Cloud & Local Deployment Patterns
-description: Instructions for deploying web applications to GCP, AWS, Azure, or local environments.
+name: deployment-patterns
+description: Guidelines for deploying web applications to GCP, AWS, Azure, or local environments. Triggers when the user asks to deploy an application, configure multi-cloud settings, or set up local environments.
 ---
 
 # 🚀 Multi-Cloud & Local Deployment Patterns

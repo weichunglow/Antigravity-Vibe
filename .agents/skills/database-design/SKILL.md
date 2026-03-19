@@ -1,6 +1,6 @@
 ---
-name: Database Design & Migrations
-description: Guidelines for designing relational schemas and managing migrations using standard ORMs.
+name: database-design
+description: Guidelines for designing relational schemas and managing migrations using standard ORMs. Triggers when the user asks to create or modify database tables, write queries, or set up data access layers.
 ---
 
 # 🗄️ Database Design Skill

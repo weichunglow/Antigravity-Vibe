@@ -1,0 +1,19 @@
+{
+  "name": "create-antigravity-vibe",
+  "version": "1.0.0",
+  "description": "Scaffold an Antigravity Vibe environment into your project",
+  "bin": {
+    "create-antigravity-vibe": "./scripts/vibe-install.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "antigravity",
+    "vibe",
+    "scaffold",
+    "create-app"
+  ],
+  "author": "WEI CHUNG LOW <weichunglow@google.com>",
+  "license": "MIT"
+}

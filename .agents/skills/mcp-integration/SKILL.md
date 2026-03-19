@@ -1,6 +1,6 @@
 ---
-name: MCP Integration Skill
-description: Instructions for how AI agents should load and query Model Context Protocol (MCP) servers to talk to external databases or APIs.
+name: mcp-integration
+description: Instructions for how AI agents should load and query Model Context Protocol (MCP) servers to talk to external databases or APIs. Triggers when the user asks to query external documentation using Context7 or link third-party services via MCP.
 ---
 
 # 🔌 MCP Integration Skill

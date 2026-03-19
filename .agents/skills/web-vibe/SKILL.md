@@ -1,6 +1,6 @@
 ---
-name: Web Vibe
-description: Rich aesthetics guidelines for modern, stunning web applications with Antigravity.
+name: generate-web-vibe
+description: Triggers when the user asks to build a UI, generate frontend code, or style components. Enforces modern aesthetics, HSL color themes, and glassmorphic designs.
 ---
 
 # 🎨 Web Vibe Design System Skill

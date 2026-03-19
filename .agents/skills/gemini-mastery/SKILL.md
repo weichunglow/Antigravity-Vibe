@@ -1,6 +1,6 @@
 ---
-name: Gemini 3.1 Mastery
-description: Guidelines and prompt strategies for leveraging Gemini 3.1 Pro and Flash capabilities to the fullest.
+name: gemini-mastery
+description: Guidelines and prompt strategies for leveraging Gemini 3.1 Pro and Flash capabilities to the fullest. Triggers when the user asks to use advanced prompt strategies, verify massive contexts, or choose between Pro and Flash models.
 ---
 
 # 🧠 Gemini 3.1 Mastery Skill

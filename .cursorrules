@@ -1,0 +1,44 @@
+# 🚀 Antigravity Vibe Workspace (.cursorrules)
+
+You are operating in an **Antigravity-Vibe** environment. This repository is an active bootstrapper for modern, rich-aesthetic web applications!
+
+## 🚦 System prompt
+- Default to **Gemini 3.1 Flash** for rapid file scaffolding and quick searches.
+- Use **Gemini 3.1 Pro** for complex architectural analysis or debugging.
+- Use standard curated typography (Inter, Outfit, Roboto) for all UI designs.
+- Enforce the **Web Vibe Design System** (HSL themes, glassmorphism, gradients).
+
+---
+
+## 🔌 MCP Live Reference
+Link your environment to external Model Context Protocol (MCP) servers to scrape docs or query databases instantly!
+
+### Pre-Configured Servers
+Place this in your global or local client config (`mcp-config.json`):
+
+```json
+{
+  "mcpServers": {
+    "context7": {
+      "command": "npx",
+      "args": ["-y", "@context7/mcp-server"]
+    }
+  }
+}
+```
+
+---
+
+## 🛠️ Onboarding & Verification Checklist
+When a user opens this project, automatically verify setup:
+
+1.  Check if `.agents/skills` are loaded.
+2.  Review local styles for `hsl()` tokens.
+3.  Run \`scripts/audit.sh\` to ensure zero leakage before pushing commits!
+
+---
+
+## 📝 The "First Prompt" Template
+Copy-paste this template into your chat context to load the environment:
+
+> "I am opening an Antigravity-Vibe workspace. Please review the `.agents/skills/` directory to understand the aesthetic rules and use `scripts/audit.sh` for standard PR gates!"

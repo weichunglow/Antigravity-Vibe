@@ -1,6 +1,6 @@
 ---
-name: Architecture & System Design
-description: Guidelines for structuring enterprise-grade software projects with clear separation of concerns.
+name: architecture-design
+description: Triggers when the user asks to design a system architecture, structure a project, or define directory layouts. Enforces clear separation of concerns.
 ---
 
 # 🏛️ Architecture & System Design Skill

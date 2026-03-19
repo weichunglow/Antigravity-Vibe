@@ -1,6 +1,6 @@
 ---
-name: Secret Management & Permissions
-description: Guidelines for securing sensitive credentials and managing environment variables.
+name: secret-management
+description: Guidelines for securing sensitive credentials and managing environment variables. Triggers when the user asks to secure sensitive credentials, manage environment variables, or scan for secrets.
 ---
 
 # 🔐 Secret Management Skill

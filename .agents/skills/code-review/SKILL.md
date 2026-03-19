@@ -1,6 +1,6 @@
 ---
-name: Code Review Agent Skill
-description: Instructions for how AI agents should perform code reviews and quality gating.
+name: code-review
+description: Triggers when the user asks to perform a code review, audit a pull request, or check code quality. Enforces standards and security.
 ---
 
 # 🕵️ Code Review Agent Skill

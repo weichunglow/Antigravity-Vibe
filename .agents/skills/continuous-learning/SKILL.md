@@ -1,6 +1,6 @@
 ---
-name: Continuous Learning & Instinct Selection
-description: Guidelines for extracting lessons and patterns from an AI session to update local rules.
+name: continuous-learning
+description: Triggers when the user asks to summarize a session, document a bug fix, or capture new tool usage patterns. Guidelines for extracting lessons to update local rules.
 ---
 
 # 🧠 Continuous Learning Skill
